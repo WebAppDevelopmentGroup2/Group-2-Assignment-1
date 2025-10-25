@@ -1,7 +1,7 @@
-# Student Grading Portal (Group 2)
+Online Student Grading Portal (Group 2)
 
-## Project Overview
-This is a simple web-based Grading Management System built using PHP and MySQL.  
+PROJECT OVERVIEW
+This is a simple Online Grading Portal built using PHP and MySQL.  
 It allows lecturers to:
 - Add student grades  
 - Automatically calculate GPA points  
@@ -9,9 +9,9 @@ It allows lecturers to:
 - Check each student’s GPA in real time  
 
 
-## 🧱 Database Setup
+DATABASE SETUP
 
-1. Open **phpMyAdmin** or MySQL terminal.  
+1. Open phpMyAdmin or MySQL terminal.  
 2. Create a new database:
    ```sql
    CREATE DATABASE grading_portal;
@@ -44,54 +44,49 @@ It allows lecturers to:
    );
    ```
 
----
 
-Configuration
+CONFIGURATION
 
 Edit `db_connect.php` and set your MySQL credentials:
 ```php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "grading_portal";
+$host = "localhost";
+$user = "root";
+$pass = "";  // leave blank unless you set a password
+$db = "grading_portal";
+$port = 3307; // custom MySQL port
 ```
 
----
 
-## 🚀 How to Run
+ HOW TO RUN
 
 1. Place your project folder `grading_portal` in:
    C:\xampp\htdocs\
 2. Start Apache and MySQL from the XAMPP Control Panel.  
 3. Open your browser and visit:
    ```
-   http://localhost/grading_portal/add_grade.php
-   http://localhost/grading_portal/viewGrade.php
+   http://localhost/grading_portal/index.php
   
 4. Use the pages to:
    - Add grades  
    - View grades and GPA by student or course    
 
----
 
-## 🧑‍💻 Group Members
+
+🧑‍💻 Group Members
 | Name | Matric No |
-|------|------------|
-| Ogholoh Omosoria Diamod  | (23/1085) |
-| [Member 2] | (Matric No) |
-| [Member 3] | (Matric No) |
-| [Member 4] | (Matric No) |
-| 
+
+| Ogholoh Omosoria Diamod  | 23/1085 |
+| Shedrack Clinton Prince | 23/2225 |
+
 
 👩‍💻 Developer
-Project Lead: Ogholoh Omosoria Diamond  
+Project Lead: Ogholoh Omosoria Diamond
 Language: PHP, HTML, CSS  
 Database: MySQL
 
-## 🏫 Assignment Details
-**Course:**   
-Assignment:Assignment 1
-Group: Group 2 
+Assignment Details: 
+Assignment 1
+Group 2 
 
 
 ## 🔗 Repository Link
