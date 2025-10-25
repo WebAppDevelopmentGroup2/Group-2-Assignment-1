@@ -9,22 +9,6 @@ It allows lecturers to:
 - Check each student’s GPA in real time  
 
 
----
-
-## 📁 Folder Structure
-```
-grading_portal/
-│
-├── add_grade.php         # Add new student grades
-├── viewGrade.php       # View and filter all grades
-├── gpa_calc.php          # GPA calculation function
-├── db_connect.php        # MySQL database connection
-├── style.css             # Styling for all pages
-└── README.md             # Project documentation
-```
-
----
-
 ## 🧱 Database Setup
 
 1. Open **phpMyAdmin** or MySQL terminal.  
@@ -62,7 +46,7 @@ grading_portal/
 
 ---
 
-## ⚙️ Configuration
+Configuration
 
 Edit `db_connect.php` and set your MySQL credentials:
 ```php
@@ -82,7 +66,7 @@ $database = "grading_portal";
 3. Open your browser and visit:
    ```
    http://localhost/grading_portal/add_grade.php
-   http://localhost/grading_portal/view_grades.php
+   http://localhost/grading_portal/viewGrade.php
   
 4. Use the pages to:
    - Add grades  
@@ -106,7 +90,7 @@ Database: MySQL
 
 ## 🏫 Assignment Details
 **Course:**   
-Assignment:Assignment 1 – PHP & MySQL Practical  
+Assignment:Assignment 1
 Group: Group 2 
 
 
