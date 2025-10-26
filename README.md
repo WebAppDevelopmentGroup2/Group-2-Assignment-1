@@ -11,7 +11,7 @@ It allows lecturers to:
 🧑‍💻 Group Members
 | Name | Matric No |
 
-| Ogholoh Omosoria Diamond  | 23/1085 | -Backend & Frontend (db_connect, add_grade, gpa_calc, index.php, style.css, Database Design (grading_portal.sql),)
+| Ogholoh Omosoria Diamond  | 23/1085 | -Backend & Frontend (db_connect, add_grade, gpa_calc, index.php, style.css,Database Design (grading_portal.sql) )
 
 | Shedrack Clinton Prince | 23/2225 | - Frontend(viewGrade.php)
 
