@@ -1,4 +1,4 @@
-/* Homepage */
+/* General page styling */
 body {
     font-family: 'Times New Roman', Times, serif;
     background: linear-gradient(135deg, #c3e0e5, #a2d2ff, #bde0fe);
@@ -8,7 +8,7 @@ body {
     padding: 0;
 }
 
-
+/* Headings */
 h1, h2 {
     color: #004d7a;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
@@ -19,7 +19,7 @@ h3 {
     margin-top: 30px;
 }
 
-/* Menu and links */
+/* Menu + links */
 .menu a, a {
     text-decoration: none;
     color: white;
@@ -37,7 +37,7 @@ h3 {
     transform: scale(1.05);
 }
 
-
+/* Form design */
 form {
     background: white;
     padding: 20px;
@@ -84,7 +84,7 @@ input[type="submit"]:hover {
     transform: scale(1.05);
 }
 
-/* Table styling*/
+/* Table styling */
 table {
     border-collapse: collapse;
     margin: 20px auto;
@@ -134,4 +134,3 @@ td[colspan='8'] {
     color: #dc3545;
     font-weight: bold;
 }
-
