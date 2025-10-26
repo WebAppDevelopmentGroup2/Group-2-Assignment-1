@@ -1,4 +1,3 @@
-<!-- Name: Ogholoh Omosoria Diamond | 23/1085-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,5 +12,3 @@
     </div>
 </body>
 </html>
-
-
