@@ -75,12 +75,15 @@ $port = 3307; // custom MySQL port
 🧑‍💻 Group Members
 | Name | Matric No |
 
-| Ogholoh Omosoria Diamond  | 23/1085 | -Backend & Frontend (db_connect, add_grade, gpa_calc, index.php, style.css, grading_portal.sql)
+| Ogholoh Omosoria Diamond  | 23/1085 | -Backend & Frontend (db_connect, add_grade, gpa_calc, index.php, style.css, grading_portal.sql, documetation)
 
 | Shedrack Clinton Prince | 23/2225 | - Frontend(viewGrade)
+
 | Okwuchi Lucky Loretta | 23/1636| - Documentation(Readme.md)
 
+| Okoye Chukwujindum | 23/0910| - Frontend(add_grade.php)
 
+|
 👩‍💻 Developer
 Project Lead: Ogholoh Omosoria Diamond
 Language: PHP, HTML, CSS  
