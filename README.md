@@ -75,8 +75,8 @@ $port = 3307; // custom MySQL port
 🧑‍💻 Group Members
 | Name | Matric No |
 
-| Ogholoh Omosoria Diamod  | 23/1085 |
-| Shedrack Clinton Prince | 23/2225 |
+| Ogholoh Omosoria Diamod  | 23/1085 | -Backend (Database Design, db_connect)
+| Shedrack Clinton Prince | 23/2225 | - Frontend(viewGrade)
 
 
 👩‍💻 Developer
