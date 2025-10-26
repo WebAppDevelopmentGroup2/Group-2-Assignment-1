@@ -83,8 +83,10 @@ $port = 3307; // custom MySQL port
 
 | Okoye Chukwujindum | 23/0910| - Frontend(add_grade.php)
 
-|
-👩‍💻 Developer
+|Makanjuola Emmanuel Oluwadarasimi| 23/1184 |
+
+|Oyeyipo Okikioluwa Temitayo | 23/0549 |
+
 Project Lead: Ogholoh Omosoria Diamond
 Language: PHP, HTML, CSS  
 Database: MySQL
