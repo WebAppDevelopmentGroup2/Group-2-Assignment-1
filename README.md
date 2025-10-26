@@ -79,7 +79,7 @@ $port = 3307; // custom MySQL port
 
 | Shedrack Clinton Prince | 23/2225 | - Frontend(viewGrade)
 
-| Okwuchi Lucky Loretta | 23/1636| - Documentation(Readme.md)
+| Lucky Loretta Okwuchi | 23/1636| - Documentation(Readme.md)
 
 | Okoye Chukwujindum | 23/0910| - Frontend(add_grade.php)
 
